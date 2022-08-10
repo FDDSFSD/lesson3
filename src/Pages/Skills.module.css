@@ -1,0 +1,20 @@
+.dv{
+    width: 435px;
+    height: 894px;
+}
+.dva{
+    width: 435px;
+    height: 531px;
+}
+.dvb{
+    width: 435px;
+    height: 532px;
+}
+.dvc{
+    width: 885px;
+    height: 343px;
+    display: flex;
+}
+.dvd{
+    display: flex;
+}

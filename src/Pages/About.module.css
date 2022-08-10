@@ -1,0 +1,8 @@
+.dv{
+    display: flex;
+    width: 635px;
+    justify-content: space-around;
+}
+.dv1{
+    margin-left: 20px;
+}
